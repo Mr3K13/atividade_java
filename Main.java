@@ -110,7 +110,9 @@ public class Main {
         menu(funcionario, horista, mensalista);
 
    break;
+
   }
+  
  }
 
 }
