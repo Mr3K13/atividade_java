@@ -1,3 +1,7 @@
+//Marcus Vinicius Ferraz Teixeira de Mendonça - 01545162 - Sistemas da informação
+//Gabriel César Ferreira Guimarães - 01589747 - Engenharia da computação
+//David Tavares De Oliveira Simões - 01590461 - Ciência da computação
+
 package atividade_java;
 
 import javax.swing.JOptionPane;
